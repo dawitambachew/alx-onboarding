@@ -1,0 +1,7 @@
+This program will calculate the sum of squares of a given numbers.
+1.	take input form the users 
+2.	assign the numbers to a variable, (x=first number, y=second number)
+3.	multiply the number by itself and their products and assign it to new variable called sum (sum=x*x + y*y)
+4.	display the sum of their respective squares (the sum of squares of x and y is sum)
+
+
